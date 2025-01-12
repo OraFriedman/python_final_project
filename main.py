@@ -88,5 +88,3 @@ visualize_correlation(df, cols=['education', 'IQ'])
 
 
 
-
-
